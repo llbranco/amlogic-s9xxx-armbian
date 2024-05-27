@@ -297,6 +297,7 @@ The [u-boot](https://github.com/ophub/u-boot), [kernel](https://github.com/ophub
 - [armbian](https://github.com/armbian/build)
 - [unifreq](https://github.com/unifreq)
 - [kernel.org](https://kernel.org)
+- [xda dev kitchen](https://xdaforums.com/t/dev-linux-win-amlogic-allwinner-rockchip-amlogic-kitchen.4403947/)
 
 ## License
 
